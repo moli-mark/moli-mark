@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=moli-mark&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moli-mark&layout=compact&theme=algolia&hide=html,css,JavaScript" />
-
 ### 你好，我是Molimark
 **一只在校大学生，热爱开源，乐于分享**
 
 ![](https://visitor-badge.glitch.me/badge?page_id=moli-mark.readme)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=moli-mark&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moli-mark&theme=algolia&layout=compact&hide=html,css,JavaScript,lua" />
 
 - :smile: 个人博客 : [Molimark](https://molimark.com.cn/)
 - 🎈 &nbsp;球球大作战小游戏：[ballgame](https://game.molimark.com.cn/)
